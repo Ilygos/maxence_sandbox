@@ -1,4 +1,5 @@
 # Maxence's Sandbox
 
-This is a sandbox where I extracted some of my work of my graduation project.
-It is also the place where I work on new technologies and experiment new things with Unreal Engine 4.
+This is a sandbox where I extracted some of my work of my graduation project.<br>
+It is also the place where I work on new technologies and experiment new things with Unreal Engine 4. <br>
+The demo build is available here: [a link](https://drive.google.com/file/d/1EIhrg6_wLhxVYMx7nObPrOczEVnbBXEh/view?usp=sharing)
